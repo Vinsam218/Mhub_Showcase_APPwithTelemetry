@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mz_accent">#4FD8E3</color>
+    <color name="mz_bg">#0A1014</color>
+    <color name="mz_face">#121C22</color>
+    <color name="mz_text">#E8F1F4</color>
+    <color name="mz_text2">#93A6AF</color>
+    <color name="risk_critical">#FF6B6B</color>
+    <color name="risk_moderate">#FFB020</color>
+    <color name="risk_safe">#3DDC97</color>
+</resources>

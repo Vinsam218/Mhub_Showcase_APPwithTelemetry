@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MzuriAIR" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mz_accent</item>
+        <item name="android:windowBackground">@color/mz_bg</item>
+        <item name="android:statusBarColor">@color/mz_bg</item>
+    </style>
+</resources>

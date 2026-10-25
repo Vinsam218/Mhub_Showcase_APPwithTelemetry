@@ -1,0 +1,10 @@
+<resources>
+    <color name="mz_bg">#F2F6F7</color>
+    <color name="mz_face">#FFFFFF</color>
+    <color name="mz_text">#0F1A1F</color>
+    <color name="mz_text2">#5A6B73</color>
+    <color name="mz_accent">#00A6B2</color>
+    <color name="risk_safe">#1B8F5F</color>
+    <color name="risk_moderate">#B87300</color>
+    <color name="risk_critical">#D32F2F</color>
+</resources>

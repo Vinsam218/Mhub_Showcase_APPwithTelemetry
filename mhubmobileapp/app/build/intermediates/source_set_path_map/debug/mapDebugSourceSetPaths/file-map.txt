@@ -1,0 +1,35 @@
+com.mzuriair.app-core-runtime-2.2.0-0 /home/vinsam/.gradle/caches/9.3.0/transforms/0170b9bf8b7f3c782f54cbd92070d98f/transformed/core-runtime-2.2.0/res
+com.mzuriair.app-cardview-1.0.0-1 /home/vinsam/.gradle/caches/9.3.0/transforms/01c938035641bfc8bf591da8e5f3bc41/transformed/cardview-1.0.0/res
+com.mzuriair.app-transition-1.5.0-2 /home/vinsam/.gradle/caches/9.3.0/transforms/0bc7e4a5d9acf11cbcd0ad9433faafef/transformed/transition-1.5.0/res
+com.mzuriair.app-savedstate-1.2.1-3 /home/vinsam/.gradle/caches/9.3.0/transforms/0d2a1a98143e616e7ffb08b034cb009f/transformed/savedstate-1.2.1/res
+com.mzuriair.app-lifecycle-process-2.8.4-4 /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/res
+com.mzuriair.app-appcompat-resources-1.7.0-5 /home/vinsam/.gradle/caches/9.3.0/transforms/25485b3cd316c4511a66031252f83243/transformed/appcompat-resources-1.7.0/res
+com.mzuriair.app-emoji2-views-helper-1.3.0-6 /home/vinsam/.gradle/caches/9.3.0/transforms/2b4755b426e59e28e9c53a8bfd18a1d8/transformed/emoji2-views-helper-1.3.0/res
+com.mzuriair.app-fragment-1.5.4-7 /home/vinsam/.gradle/caches/9.3.0/transforms/34c79c9fa338d9993db8158adb8c156a/transformed/fragment-1.5.4/res
+com.mzuriair.app-drawerlayout-1.1.1-8 /home/vinsam/.gradle/caches/9.3.0/transforms/5f56ca75f1871e062ab9e8d258bd2670/transformed/drawerlayout-1.1.1/res
+com.mzuriair.app-lifecycle-viewmodel-savedstate-2.8.4-9 /home/vinsam/.gradle/caches/9.3.0/transforms/679323cbd821c9a03f5e2e544e46a44f/transformed/lifecycle-viewmodel-savedstate-2.8.4/res
+com.mzuriair.app-core-1.13.0-10 /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/res
+com.mzuriair.app-lifecycle-livedata-core-ktx-2.8.4-11 /home/vinsam/.gradle/caches/9.3.0/transforms/746454a9cdbbbc104da79b2b5e2d51c8/transformed/lifecycle-livedata-core-ktx-2.8.4/res
+com.mzuriair.app-material-1.12.0-12 /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/res
+com.mzuriair.app-viewpager2-1.0.0-13 /home/vinsam/.gradle/caches/9.3.0/transforms/833a8bc3aa4efa0ce0e853822dbd93a5/transformed/viewpager2-1.0.0/res
+com.mzuriair.app-activity-1.8.0-14 /home/vinsam/.gradle/caches/9.3.0/transforms/8689989d22522f903644062d089a5871/transformed/activity-1.8.0/res
+com.mzuriair.app-annotation-experimental-1.4.0-15 /home/vinsam/.gradle/caches/9.3.0/transforms/a258f449efc488e36c59c43eafb52bac/transformed/annotation-experimental-1.4.0/res
+com.mzuriair.app-startup-runtime-1.1.1-16 /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/res
+com.mzuriair.app-lifecycle-runtime-release-17 /home/vinsam/.gradle/caches/9.3.0/transforms/ae8a74e63f220ef4a311105fc97d2a4b/transformed/lifecycle-runtime-release/res
+com.mzuriair.app-core-ktx-1.13.0-18 /home/vinsam/.gradle/caches/9.3.0/transforms/b4786b0e42a4debc870f220d20756741/transformed/core-ktx-1.13.0/res
+com.mzuriair.app-recyclerview-1.1.0-19 /home/vinsam/.gradle/caches/9.3.0/transforms/be19e1676a476ed5954acbee9561161f/transformed/recyclerview-1.1.0/res
+com.mzuriair.app-profileinstaller-1.3.1-20 /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/res
+com.mzuriair.app-lifecycle-livedata-core-2.8.4-21 /home/vinsam/.gradle/caches/9.3.0/transforms/d45821951650ce1b1c98444da2421a1e/transformed/lifecycle-livedata-core-2.8.4/res
+com.mzuriair.app-constraintlayout-2.1.4-22 /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/res
+com.mzuriair.app-appcompat-1.7.0-23 /home/vinsam/.gradle/caches/9.3.0/transforms/df1cb0ff325af01fa240fdc5eaf35675/transformed/appcompat-1.7.0/res
+com.mzuriair.app-emoji2-1.3.0-24 /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/res
+com.mzuriair.app-lifecycle-livedata-2.8.4-25 /home/vinsam/.gradle/caches/9.3.0/transforms/e7a6be69ad5b61905849d7bcd3f27f79/transformed/lifecycle-livedata-2.8.4/res
+com.mzuriair.app-coordinatorlayout-1.1.0-26 /home/vinsam/.gradle/caches/9.3.0/transforms/e868dca8c67c7e22ce51b9b9e16c685d/transformed/coordinatorlayout-1.1.0/res
+com.mzuriair.app-lifecycle-viewmodel-release-27 /home/vinsam/.gradle/caches/9.3.0/transforms/fc850745d703f4744e21cc25b9f70093/transformed/lifecycle-viewmodel-release/res
+com.mzuriair.app-pngs-28 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/build/generated/res/pngs/debug
+com.mzuriair.app-resValues-29 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/build/generated/res/resValues/debug
+com.mzuriair.app-packageDebugResources-30 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.mzuriair.app-packageDebugResources-31 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.mzuriair.app-debug-32 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.mzuriair.app-debug-33 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/debug/res
+com.mzuriair.app-main-34 /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/res

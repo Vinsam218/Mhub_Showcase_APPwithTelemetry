@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] /home/vinsam/.gradle/caches/9.3.0/transforms/eca6f93b98729cf54d1b85e6b038a90f/transformed/viewbinding-8.5.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/25485b3cd316c4511a66031252f83243/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/df1cb0ff325af01fa240fdc5eaf35675/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/833a8bc3aa4efa0ce0e853822dbd93a5/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vinsam/.gradle/caches/9.3.0/transforms/34c79c9fa338d9993db8158adb8c156a/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2b4755b426e59e28e9c53a8bfd18a1d8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.activity:activity:1.8.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8689989d22522f903644062d089a5871/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b4786b0e42a4debc870f220d20756741/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5f56ca75f1871e062ab9e8d258bd2670/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e868dca8c67c7e22ce51b9b9e16c685d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0bc7e4a5d9acf11cbcd0ad9433faafef/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/81c1b295dcad7dd8b940ccda4680bba5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a213c33a71d44809ec6dbf6aa2135054/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b7e4cf298d7d76324a63b68ca42711df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/71ab9d91398a2fbd12f56face6aea055/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2cef795e2875dda218788f94e58aded9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6027f4e92ad62f7bbd58c3cee29ef392/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/be19e1676a476ed5954acbee9561161f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/efe7276b3f350fabff8856cf4236fe17/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vinsam/.gradle/caches/9.3.0/transforms/0d2a1a98143e616e7ffb08b034cb009f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/bfbaa92756ed6fba0d57f6bbf2fe4e1b/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/fc850745d703f4744e21cc25b9f70093/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/ae8a74e63f220ef4a311105fc97d2a4b/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/679323cbd821c9a03f5e2e544e46a44f/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/746454a9cdbbbc104da79b2b5e2d51c8/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/d45821951650ce1b1c98444da2421a1e/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/e7a6be69ad5b61905849d7bcd3f27f79/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8108d33386ded59b39f092b2d7e5ee64/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/01c938035641bfc8bf591da8e5f3bc41/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0170b9bf8b7f3c782f54cbd92070d98f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6d8f0039f9c4d50f945cdb31b91bdf7d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5c487ce1491801af06cb9d04fb97c611/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/416266615a7a4d020d2126cb771ddc17/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e8f8f15fdb34b5d2333f0f01668c986d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b91d158155fde69d2a7f1157051b6608/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/47b1a08a8b050cc6724f59ab19ab3e90/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a258f449efc488e36c59c43eafb52bac/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:3:5-10:19
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:3:5-10:19
+MERGED from [com.google.android.material:material:1.12.0] /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5c487ce1491801af06cb9d04fb97c611/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5c487ce1491801af06cb9d04fb97c611/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:3:81-107
+	android:label
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:3:18-42
+	android:theme
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:3:43-80
+activity#com.mzuriair.app.ui.MainActivity
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:4:9-9:20
+	android:exported
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:4:51-74
+	android:name
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:4:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:6:17-68
+	android:name
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:7:17-76
+	android:name
+		ADDED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml:7:27-74
+uses-sdk
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.2] /home/vinsam/.gradle/caches/9.3.0/transforms/eca6f93b98729cf54d1b85e6b038a90f/transformed/viewbinding-8.5.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] /home/vinsam/.gradle/caches/9.3.0/transforms/eca6f93b98729cf54d1b85e6b038a90f/transformed/viewbinding-8.5.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/vinsam/.gradle/caches/9.3.0/transforms/7de19f47d668e1eb37cacb17c3a7a18e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/vinsam/.gradle/caches/9.3.0/transforms/daa3c184a2157caefacf5e48862774cb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/25485b3cd316c4511a66031252f83243/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/25485b3cd316c4511a66031252f83243/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/df1cb0ff325af01fa240fdc5eaf35675/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vinsam/.gradle/caches/9.3.0/transforms/df1cb0ff325af01fa240fdc5eaf35675/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/833a8bc3aa4efa0ce0e853822dbd93a5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/833a8bc3aa4efa0ce0e853822dbd93a5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vinsam/.gradle/caches/9.3.0/transforms/34c79c9fa338d9993db8158adb8c156a/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vinsam/.gradle/caches/9.3.0/transforms/34c79c9fa338d9993db8158adb8c156a/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2b4755b426e59e28e9c53a8bfd18a1d8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2b4755b426e59e28e9c53a8bfd18a1d8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8689989d22522f903644062d089a5871/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8689989d22522f903644062d089a5871/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b4786b0e42a4debc870f220d20756741/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b4786b0e42a4debc870f220d20756741/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5f56ca75f1871e062ab9e8d258bd2670/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5f56ca75f1871e062ab9e8d258bd2670/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e868dca8c67c7e22ce51b9b9e16c685d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e868dca8c67c7e22ce51b9b9e16c685d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0bc7e4a5d9acf11cbcd0ad9433faafef/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0bc7e4a5d9acf11cbcd0ad9433faafef/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/81c1b295dcad7dd8b940ccda4680bba5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/81c1b295dcad7dd8b940ccda4680bba5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a213c33a71d44809ec6dbf6aa2135054/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a213c33a71d44809ec6dbf6aa2135054/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b7e4cf298d7d76324a63b68ca42711df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b7e4cf298d7d76324a63b68ca42711df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/71ab9d91398a2fbd12f56face6aea055/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/71ab9d91398a2fbd12f56face6aea055/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2cef795e2875dda218788f94e58aded9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/2cef795e2875dda218788f94e58aded9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6027f4e92ad62f7bbd58c3cee29ef392/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6027f4e92ad62f7bbd58c3cee29ef392/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/be19e1676a476ed5954acbee9561161f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/be19e1676a476ed5954acbee9561161f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/efe7276b3f350fabff8856cf4236fe17/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/vinsam/.gradle/caches/9.3.0/transforms/efe7276b3f350fabff8856cf4236fe17/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vinsam/.gradle/caches/9.3.0/transforms/0d2a1a98143e616e7ffb08b034cb009f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vinsam/.gradle/caches/9.3.0/transforms/0d2a1a98143e616e7ffb08b034cb009f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/bfbaa92756ed6fba0d57f6bbf2fe4e1b/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/bfbaa92756ed6fba0d57f6bbf2fe4e1b/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/fc850745d703f4744e21cc25b9f70093/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/fc850745d703f4744e21cc25b9f70093/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/ae8a74e63f220ef4a311105fc97d2a4b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/ae8a74e63f220ef4a311105fc97d2a4b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/679323cbd821c9a03f5e2e544e46a44f/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/679323cbd821c9a03f5e2e544e46a44f/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/746454a9cdbbbc104da79b2b5e2d51c8/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/746454a9cdbbbc104da79b2b5e2d51c8/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/d45821951650ce1b1c98444da2421a1e/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/d45821951650ce1b1c98444da2421a1e/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/e7a6be69ad5b61905849d7bcd3f27f79/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/e7a6be69ad5b61905849d7bcd3f27f79/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8108d33386ded59b39f092b2d7e5ee64/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/8108d33386ded59b39f092b2d7e5ee64/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/01c938035641bfc8bf591da8e5f3bc41/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/01c938035641bfc8bf591da8e5f3bc41/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0170b9bf8b7f3c782f54cbd92070d98f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vinsam/.gradle/caches/9.3.0/transforms/0170b9bf8b7f3c782f54cbd92070d98f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6d8f0039f9c4d50f945cdb31b91bdf7d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/6d8f0039f9c4d50f945cdb31b91bdf7d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5c487ce1491801af06cb9d04fb97c611/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/5c487ce1491801af06cb9d04fb97c611/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/416266615a7a4d020d2126cb771ddc17/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/416266615a7a4d020d2126cb771ddc17/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e8f8f15fdb34b5d2333f0f01668c986d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e8f8f15fdb34b5d2333f0f01668c986d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b91d158155fde69d2a7f1157051b6608/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/b91d158155fde69d2a7f1157051b6608/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/47b1a08a8b050cc6724f59ab19ab3e90/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vinsam/.gradle/caches/9.3.0/transforms/47b1a08a8b050cc6724f59ab19ab3e90/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a258f449efc488e36c59c43eafb52bac/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vinsam/.gradle/caches/9.3.0/transforms/a258f449efc488e36c59c43eafb52bac/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinsam/Desktop/MHUB Applications/mhubmobileapp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ab6eb48b2223fd4b2b35fc441ecf9b8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vinsam/.gradle/caches/9.3.0/transforms/e18e151c085c304f78f3ac2ab9eba16e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.mzuriair.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.mzuriair.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vinsam/.gradle/caches/9.3.0/transforms/67a7b779a6fdf04f34129bc25f63c914/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/vinsam/.gradle/caches/9.3.0/transforms/0f5104dd1dc41d829c2843ae7e889506/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/vinsam/.gradle/caches/9.3.0/transforms/ce77056538a175436d36d770acd76fcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

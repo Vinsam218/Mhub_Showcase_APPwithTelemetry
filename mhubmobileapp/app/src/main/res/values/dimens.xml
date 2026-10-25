@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="mz_pad">20dp</dimen>
+    <dimen name="mz_radius">32dp</dimen>
+    <dimen name="mz_card_radius">20dp</dimen>
+    <dimen name="mz_gap">12dp</dimen>
+</resources>

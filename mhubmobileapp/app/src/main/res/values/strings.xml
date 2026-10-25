@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MzuriAIR</string>
+    <string name="watch_connected">Watch connected</string>
+    <string name="watch_syncing">Watch syncing</string>
+    <string name="watch_disconnected">Watch disconnected</string>
+    <string name="demo_note">Demo scenarios use demonstration data only. They are prototype classifications, not medical diagnoses or clinical asthma thresholds.</string>
+</resources>

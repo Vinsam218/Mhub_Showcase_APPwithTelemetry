@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.mzuriair.app-mergeDebugResources-31:/layout/item_row.xml",
+        "source": "com.mzuriair.app-main-34:/layout/item_row.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.mzuriair.app-main-34:/layout/activity_main.xml"
+    }
+]

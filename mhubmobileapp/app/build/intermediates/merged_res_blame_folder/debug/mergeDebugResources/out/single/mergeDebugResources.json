@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.mzuriair.app-debug-32:/drawable_bg_dot.xml.flat",
+        "source": "com.mzuriair.app-main-34:/drawable/bg_dot.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.mzuriair.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-32:/layout_item_row.xml.flat",
+        "source": "com.mzuriair.app-main-34:/layout/item_row.xml"
+    }
+]
