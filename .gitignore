@@ -1,0 +1,8 @@
+# Android local configuration
+**/local.properties
+
+# Gradle generated files
+**/.gradle/
+
+# IDE-specific files
+**/.idea/

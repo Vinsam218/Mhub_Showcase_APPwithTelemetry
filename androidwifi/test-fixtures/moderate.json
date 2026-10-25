@@ -1,0 +1,1 @@
+{"device":"mzuriair-001","ts":1759400000,"seq":123,"risk":{"level":"moderate","aqi":77,"dominant":"PM2.5","reasons":1},"metrics":{"NO2":0.06,"CO":1.2,"NH3":8.3,"Ethanol":120,"Benzene":0.1,"VOCs":0.42,"PM2.5":17,"Temp":23.4,"Humidity":48},"vitals":{"hr":84,"wheeze":false,"wheeze_db":4.2,"activity":"rest"},"device_status":{"battery":87,"charging":false,"rssi":-61},"simulated":true}

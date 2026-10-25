@@ -1,0 +1,27 @@
+openapi: 3.0.3
+info:
+  title: MzuriAIR Companion API
+  version: 1.0.0
+paths:
+  /api/devices/{deviceId}/telemetry:
+    post:
+      summary: Ingest the unchanged watch telemetry JSON
+      parameters: [{name: deviceId, in: path, required: true, schema: {type: string}}]
+      requestBody: {required: true, content: {application/json: {schema: {type: object}}}}
+      responses: {"200": {description: Accepted}}
+  /api/devices/{deviceId}/latest:
+    get: {summary: Return the latest unchanged telemetry sample, responses: {"200": {description: Latest telemetry}}}
+  /api/devices/{deviceId}/history:
+    get:
+      summary: Return timestamp-ordered telemetry samples
+      parameters:
+        - {name: deviceId, in: path, required: true, schema: {type: string}}
+        - {name: from, in: query, required: true, schema: {type: integer, format: int64}}
+        - {name: to, in: query, required: true, schema: {type: integer, format: int64}}
+      responses: {"200": {description: Telemetry array}}
+  /api/devices/{deviceId}/trends:
+    get: {summary: Return telemetry samples/aggregates for a period, responses: {"200": {description: Trend data}}}
+  /api/devices/{deviceId}/status:
+    get: {summary: Return latest device status, responses: {"200": {description: Device status}}}
+  /api/devices/{deviceId}/sos:
+    post: {summary: Create an SOS event corresponding to the watch SOS concept, responses: {"200": {description: Accepted}}}

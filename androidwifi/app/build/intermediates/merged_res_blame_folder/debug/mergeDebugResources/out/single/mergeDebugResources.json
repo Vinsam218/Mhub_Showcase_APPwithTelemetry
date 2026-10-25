@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.mzuriair.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mzuriair.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-35:/font_montserrat.xml.flat",
+        "source": "com.mzuriair.app-main-37:/font/montserrat.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-35:/font_montserrat_medium.ttf.flat",
+        "source": "com.mzuriair.app-main-37:/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-35:/drawable_ic_mzuriair.xml.flat",
+        "source": "com.mzuriair.app-main-37:/drawable/ic_mzuriair.xml"
+    },
+    {
+        "merged": "com.mzuriair.app-debug-35:/font_montserrat_bold.ttf.flat",
+        "source": "com.mzuriair.app-main-37:/font/montserrat_bold.ttf"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#5B7FE8</color>
+    <color name="border">#252E3A</color>
+    <color name="critical">#EF4444</color>
+    <color name="cyan">#2ED3E6</color>
+    <color name="heart">#FF4D6D</color>
+    <color name="moderate">#F59E0B</color>
+    <color name="safe">#22C55E</color>
+    <color name="surface">#10151C</color>
+    <color name="surface2">#19202A</color>
+    <color name="text_muted">#8A94A6</color>
+    <color name="text_primary">#F5F7FA</color>
+    <color name="unknown">#64748B</color>
+    <string name="app_name">MzuriAIR</string>
+    <style name="Theme.MzuriAIR" parent="Theme.Material3.Dark.NoActionBar">
+ <item name="android:fontFamily">@font/montserrat</item><item name="android:windowLightStatusBar">false</item><item name="android:statusBarColor">@color/black</item><item name="android:navigationBarColor">@color/black</item>
+ <item name="colorPrimary">@color/cyan</item><item name="colorSecondary">@color/blue</item><item name="android:windowBackground">@color/black</item>
+</style>
+</resources>

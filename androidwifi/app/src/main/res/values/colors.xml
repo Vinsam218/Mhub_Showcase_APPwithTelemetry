@@ -1,0 +1,5 @@
+<resources>
+ <color name="black">#000000</color><color name="surface">#10151C</color><color name="surface2">#19202A</color><color name="border">#252E3A</color>
+ <color name="text_primary">#F5F7FA</color><color name="text_muted">#8A94A6</color><color name="cyan">#2ED3E6</color><color name="blue">#5B7FE8</color>
+ <color name="safe">#22C55E</color><color name="moderate">#F59E0B</color><color name="critical">#EF4444</color><color name="heart">#FF4D6D</color><color name="unknown">#64748B</color>
+</resources>
